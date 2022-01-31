@@ -1,0 +1,17 @@
+M. Amigo Estévez/o/x/1/120
+Dora Blanco/a/x/1/120
+Jorge Gómez/o/x/1/120
+Anxo Trillo/o/x/0/100
+Ignacio Gómez/o/x/1/120
+Pablo Arrojo/o/x/0/100
+Marco Alonso/o/x/0/100
+Pablo Pérez/o/x/0/100
+Sócrates Agudo/o/Natalia Seoane/2/147
+Natalia Seoane/a/Sócrates Agudo/2/154
+David Carpintero/o/Lois Rodríguez/2/140
+Lois Rodríguez/o/David Carpintero/0/100
+Carlos Cao/o/x/0/100
+Daniel Piqueras/o/x/1/120
+Lucía Pazos/a/x/0/100
+Javier Pereira/o/P.Pablo Paredes/0/100
+P.Pablo Paredes/o/Javier Pereira/0/100
