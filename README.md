@@ -1,7 +1,7 @@
 # ETSE Warbot
 twitter/instagram: @warbot_etse
 
-Este proxecto é un bot de twitter que simula batallas entre estudantes da Escola Técnica Superior de Enxeñería da USC. É un xogo de 0 xogadores, xa que se desenvolve automaticamente, e ten unha duración aproximada de 1,5/2 meses. Foi desenvolvido por Daniel Souto e Anxo Trillo. a finais do 2021. O funcionamento é o seguinte:
+Este proxecto é un bot de twitter que simula batallas entre estudantes da Escola Técnica Superior de Enxeñería da USC. É un xogo de 0 xogadores, xa que se desenvolve automaticamente, e ten unha duración aproximada de 1,5/2 meses. Foi desenvolvido por Daniel Souto e Anxo Trillo a finais do 2021, e posto en marcha o 7 de febreiro do 2022. O funcionamento é o seguinte:
 
 Cada día publícanse 3 tweets, que poden ser de batalla ou de alianza. Para as batallas, escóllense dúas persoas ao azar, e elíxese aleatoriamente a unha para que sexa a asesina e outra a víctima. Con cada asesinato, un xogador aumenta os seus puntos de forza, aumentando un pouco as probabilidades de gañar o seguinte combate.
 
