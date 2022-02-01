@@ -7,7 +7,7 @@ import time
 def upload(tweet, imaxe):
     clean_up()
     bot = Bot()
-    bot.login(username="warbot_etse", password="barja1234!")
+    bot.login(username="usename", password="password")
     time.sleep(1)
     bot.upload_photo(imaxe, caption=tweet)
 
