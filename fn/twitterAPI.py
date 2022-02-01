@@ -1,10 +1,10 @@
 import tweepy
 
 # Claves para o acceso á API de twitter
-consumer_key = 'Flht3DoIWkfYaHr3FO3HG9SpW'
-consumer_secret = 'WrWSFa9Hc9psXJYwOFMQc8xLVSj89TP4TNPXodtGziiPeKx64o'
-access_token = '1301652464098254850-dWRE4GCBnVuApsPPos2BPlxVXnA2QO'
-access_token_secret = 'kwq3niNK4C1AbcE4k8LHpXrM33PcyNxdayuG04YwnxHOY'
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 
 # # Dado un tweet (str) e imaxe (str '*.jpeg'), publica o contido en twitter
 def upload(tweet, imaxe, add_media):
